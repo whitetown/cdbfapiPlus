@@ -1,0 +1,7 @@
+framework module cdbfapi {
+    umbrella header "cdbfapi.h"
+
+
+    export *
+    module * { export * }
+}

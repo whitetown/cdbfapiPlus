@@ -1,0 +1,43 @@
+CDBFAPI - library for working with DBF files.
+~~~~~~~~~~~
+
+The kernel of the library is written in pure C.
+It could be compiled by any C/C++ compiler.
+
+INCLUDE\*.*             Header files for C/C++
+	
+RELEASE\
+    cdbfapi.dll         Windows 32-bit DLL
+    cdbfapiPlus.dll     Windows 32-bit DLL
+
+RELEASE64\
+    cdbfapi.dll         Windows 64-bit DLL
+    cdbfapiPlus.dll     Windows 64-bit DLL
+
+CDBFAPI-PLUS-DEMO\*.*   Demo project for C++
+
+CDBFAPISHARP\*.*        C# Wrapper for cdbfapiPlus.dll
+
+CDBFAPISHARP-DEMO\*.*   Demo project in C#
+CREATE\*.*              how to create a dbf file in C#
+GRID-DEMO\*.*           how to display a dbf file in C#
+
+DELPHI\*.*              
+    cdbfapi.pas         Header file for original CDBFAPI.DLL
+    cdbfapiPlus.pas     TcdbfapiClass, wrapper for cdbfapi.pas
+    DelphiTestApp       Demo delphi project
+
+	
+CDBFAPI-IOS\*.*         Framework for iOS + Example
+CDBFAPI-OSX\*.*         Framework for OS X + Example
+
+	
+== Source code are available only in developer license ==
+
+SOURCE-CODE\*.*         Core functions for working with DBF files.
+CDBFAPIDLL\*.*          Original cdbfapi.dll, core functions, multi platform code, both 32/64 bit
+
+CDBFAPI-IOS-OSX\*.*     XCode Project to build iOS, OSX frameworks
+CDBFAPI-PLUS\*.*        C++ Class for Windows, both 32/64 bit
+
+==========================================================
