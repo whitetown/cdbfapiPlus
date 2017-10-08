@@ -1,0 +1,12 @@
+cdbfapi-ios\*  linguist-language=ObjectiveC
+cdbfapi-osx\*  linguist-language=ObjectiveC
+cdbfapi-plus-demo\*  linguist-language=cpp
+cdbfapiSharp\*  linguist-language=cs
+cdbfapiSharpDemo\*  linguist-language=cs
+c-example\*  linguist-language=c
+CreateDBF\*  linguist-language=cs
+delphi\*  linguist-language=delphi
+grid-demo\*  linguist-language=cs
+include\*  linguist-language=cpp
+release\*  linguist-language=cpp
+Release64\*  linguist-language=cpp
