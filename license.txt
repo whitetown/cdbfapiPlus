@@ -1,0 +1,77 @@
+----------------------------------------------------------------------
+                 END USER LICENSE AGREEMENT FOR CDBFAPI
+----------------------------------------------------------------------
+
+
+This End-User License Agreement ("EULA") is a legal agreement  between
+you and WhiteTown s.r.o. for the  CDBFAPI product  which  may  include  
+associated software components, media, printed materials, and "online" 
+electronic documentation ("SOFTWARE PRODUCT"). 
+
+You agree to be bound by the terms of this EULA by using the  SOFTWARE
+PRODUCT. If you do not agree, do not use it.
+
+1. COPYRIGHT
+
+All rights, title, inerests  in and  to  copyrights  in  the  SOFTWARE 
+PRODUCT are owned exclusively (or licensed)  by  WhiteTown s.r.o..  
+The SOFTWARE PRODUCT is protected  by copyright laws and  international 
+copyright treaties, as well as other intellectual property laws and treaties.
+The SOFTWARE PRODUCT is licensed, not sold. 
+
+2. GRANT OF LICENSE
+
+WhiteTown s.r.o. grants Customer the following rights:
+
+a. Customer  is  granted  the  non-transferable,  non-exclusive,   and
+perpetual right to integrate the SOFTWARE PRODUCT  in  their  software
+products, to use these products in their own company and to distribute
+these products under their own trade name. 
+
+b. License fee is based on the number of developers that will use  the 
+Application Programming Interface provided by this library.  The total
+number of development workplaces is  taken  into  account,  while  the
+number of computers is irrelevant . A single developer  or a number of
+developers in  an  organization,  in  accordance  with  the  purchased
+license,  may use the SOFTWARE PRODUCT  in  any  software  development
+process.
+
+c. License fee can be fixed for Developer license. In this case, any
+developer  within  a  company  may  use the  SOFTWARE PRODUCT  in  any
+software  development  process inside company.  The  total  number  of
+development workplaces and number of computers inside  an organization 
+are irrelevant.
+
+d. Apart from the per-developer or the fixed license fee,  Customer is
+NOT required  to  pay  any additional distribution,  runtime, royalty,
+or per-end-user license fees.
+
+e. Customer  may  make  copies  of  the  SOFTWARE PRODUCT  as  may  be 
+necessary for backup and archival purposes.
+
+3. RESTRICTIONS
+
+a. Customer may not  disassemble,  decomplile,  reverse  engineer  the 
+SOFTWARE PRODUCT.
+ 
+b. Customer may not transfer, modify, sell,  lease  or  sublicense the
+SOFTWARE PRODUCT.
+
+4. TERMINATION
+
+Without prejudice to any other rights,  WhiteTown s.r.o. may terminate 
+this EULA if Customer fails to comply with the terms and conditions of 
+this EULA. In such event,  Customer must  destroy  all  copies  of the  
+SOFTWARE PRODUCT in your possession.
+
+5. NO WARRANTIES
+
+WhiteTown s.r.o.  expressly  disclaims any  warranty  for  the SOFTWARE PRODUCT.
+CDBFAPI is provided "As Is" without any  express  or implied warranty of
+any  kind,   including   but   not   limited   to  any  warranties  of
+merchantability,  noninfringement, or fitness of a particular purpose.
+WhiteTown s.r.o. does not  warrant  or  assume  responsibility for the 
+accuracy or  completeness  of  any  information,  text,  algorithms,  
+graphics, links  or other items contained within this  software product.  
+WhiteTown s.r.o. will not be liable for data loss, damages, loss of 
+profits or any other kind of loss  while  using  or misusing this library.
